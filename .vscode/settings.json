@@ -1,6 +1,6 @@
 {
     "aliosStudio.inner.yosBin": "aos",
-    "aliosStudio.hardware.board": "linuxhost",
+    "aliosStudio.hardware.board": "mk3060",
     "aliosStudio.name": "helloworld",
     "aliosStudio.buildList": [
         {"name": "clean"},
