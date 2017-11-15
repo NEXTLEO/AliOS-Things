@@ -173,7 +173,7 @@ static char a2x(char ch)
         case 'f':
             return 15;
         default:
-            break;;
+            break;
     }
 
     return 0;

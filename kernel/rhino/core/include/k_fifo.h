@@ -79,7 +79,7 @@ uint32_t fifo_out_peek(struct k_fifo *fifo,
                        void *buf, uint32_t len);
 
 /**
- * This function will read fifo all data
+ * This function will read all fifo data
  * @param[in]  fifo         pointer to fifo
  * @param[in]  buf          pointer to buffer read
  * @return  the size has read
